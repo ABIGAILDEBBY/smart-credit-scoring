@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+faceDetector/
+*.pyc
+models/
+.DS_Store
+.env
+*.pkl
+csvs/
