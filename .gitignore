@@ -5,5 +5,4 @@ faceDetector/
 models/
 .DS_Store
 .env
-*.pkl
 csvs/
